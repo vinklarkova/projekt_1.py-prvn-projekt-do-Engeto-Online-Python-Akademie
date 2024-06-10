@@ -1,0 +1,1 @@
+# projekt_1.py-prvn-projekt-do-Engeto-Online-Python-Akademie
